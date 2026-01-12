@@ -1,0 +1,15 @@
+venv/
+.vscode/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.idea/
+.mypy_cache/
+.pytest_cache/
+htmlcov/
+coverage.xml
+*.log
+.ipynb_checkpoints
+dbt_modules/
+target/
