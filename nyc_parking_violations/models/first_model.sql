@@ -1,1 +1,0 @@
-SELECT * FROM parking_violations_codes
