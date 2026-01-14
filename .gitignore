@@ -14,3 +14,4 @@ coverage.xml
 dbt_modules/
 target/
 dev.duckdb
+*.db
