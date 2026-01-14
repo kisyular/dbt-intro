@@ -13,3 +13,4 @@ coverage.xml
 .ipynb_checkpoints
 dbt_modules/
 target/
+dev.duckdb
